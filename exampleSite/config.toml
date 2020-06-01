@@ -16,22 +16,36 @@ home = "主页"
 languageCode = "zh-CN"
 languageName = "Zh"
 weight = 1
+[menu]
+static = []
 [[menu.main]]
-name = "certification"
-url = "#"
-weight = 8
-[[menu.main]]
-name = "prerequisites"
-url = "#"
-weight = 7
-[[menu.main]]
-name = "schedule"
-url = "#"
-weight = 4
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
+URL = "overview"
+name = "overview"
 weight = 1
+[[menu.main]]
+URL = "pedagogy"
+name = "pedagogy"
+weight = 2
+[[menu.main]]
+URL = "schedule"
+name = "schedule"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 4
+[[menu.main]]
+URL = "testimonials"
+name = "testimonials"
+weight = 5
+[[menu.main]]
+URL = "prerequisites"
+name = "prerequisites"
+weight = "6"
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [params]
 author = "Kinneret Innovation Center"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -72,14 +86,17 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = ""
-link = ""
+icon = "ti-world"
+link = "http://agrotech.org.il"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
+[[params.social]]
+icon = "ti-instagram"
+link = ""
 [[params.social]]
 icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/kinneret-innovation-center/"
