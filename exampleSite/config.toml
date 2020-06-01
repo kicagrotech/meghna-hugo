@@ -19,6 +19,10 @@ weight = 1
 [menu]
 static = []
 [[menu.main]]
+URL = "prerequisites"
+name = "prerequisites"
+weight = "6"
+[[menu.main]]
 URL = "overview"
 name = "overview"
 weight = 1
@@ -27,16 +31,16 @@ URL = "pedagogy"
 name = "pedagogy"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "portfolio"
+URL = "schedule"
+name = "schedule"
 weight = 3
 [[menu.main]]
 URL = "team"
 name = "team"
 weight = 4
 [[menu.main]]
-URL = "pricing"
-name = "pricing"
+URL = "testimonials"
+name = "testimonials"
 weight = 5
 [[menu.main]]
 URL = "contact"
