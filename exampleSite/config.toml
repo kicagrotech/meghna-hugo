@@ -1,5 +1,5 @@
 baseURL = "https://iic.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -17,7 +17,7 @@ contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
 home = "Accueil"
 languageCode = "fr-fr"
-languageName = "Fr"
+languageName = ""
 weight = 2
 [[menu.main]]
 URL = "about"
