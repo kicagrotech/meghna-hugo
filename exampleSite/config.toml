@@ -90,7 +90,7 @@ icon = "ti-world"
 link = "http://agrotech.org.il"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/KinneretInnovationCenter"
 [[params.social]]
 icon = "ti-instagram"
 link = ""
