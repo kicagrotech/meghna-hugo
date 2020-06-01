@@ -10,5 +10,5 @@ banner:
     success? Join our course!
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Learn More
+    link: "#about"
