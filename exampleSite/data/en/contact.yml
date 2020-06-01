@@ -12,10 +12,8 @@ contact:
     info: Kinneret Innovation Center, Jordan Valley, Israel
   - icon: ti-mobile
     info: 'Phone: +972 4 665 3826'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: tomer@kic.co.il'
 menu:
   main:
     URL: contact
