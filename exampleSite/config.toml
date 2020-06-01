@@ -16,6 +16,18 @@ home = "主页"
 languageCode = "zh-CN"
 languageName = "Zh"
 weight = 1
+[[menu.main]]
+name = "certification"
+url = "#"
+weight = 8
+[[menu.main]]
+name = "prerequisites"
+url = "#"
+weight = 7
+[[menu.main]]
+name = "schedule"
+url = "#"
+weight = 4
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "Themefisher"

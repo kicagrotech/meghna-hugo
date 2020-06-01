@@ -67,4 +67,4 @@ menu:
   main:
     URL: team
     name: team
-    weight: 1
+    weight: 5

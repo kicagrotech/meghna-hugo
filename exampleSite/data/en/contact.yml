@@ -20,4 +20,4 @@ menu:
   main:
     URL: contact
     name: contact
-    weight: 2
+    weight: 9
