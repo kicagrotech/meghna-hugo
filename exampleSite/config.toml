@@ -16,14 +16,6 @@ home = "主页"
 languageCode = "zh-CN"
 languageName = "Zh"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 2
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 1
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "Themefisher"
