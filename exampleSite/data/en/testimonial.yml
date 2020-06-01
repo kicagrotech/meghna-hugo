@@ -4,23 +4,16 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Viola Chen
+    image: ''
+    image_webp: ''
+    date: General Manager of a consulting management company and Co-founder of a technology
+      company
+    content: Tomer Swisa's course was logical, clear, concise, practical,  instructive,
+      and the results are immediate!
   - name: He Changhao
     image: ''
     image_webp: ''
     date: Chairman, Guangzhou Qimidian Trade Co., Ltd.
     content: This course has helped me to understand Israeli wisdom and become a better
       version of myself.
-  - name: Jonathon Andrew
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Mark Dinn
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
