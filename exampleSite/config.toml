@@ -16,13 +16,15 @@ home = "主页"
 languageCode = "zh-CN"
 languageName = "Zh"
 weight = 1
+[menu]
+static = []
 [[menu.main]]
-URL = "about"
-name = "about"
+URL = "overview"
+name = "overview"
 weight = 1
 [[menu.main]]
-URL = "services"
-name = "services"
+URL = "pedagogy"
+name = "pedagogy"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
@@ -37,17 +39,9 @@ URL = "pricing"
 name = "pricing"
 weight = 5
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
