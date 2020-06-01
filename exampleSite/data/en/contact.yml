@@ -4,7 +4,7 @@ contact:
   title: Contact Us
   subtitle: Contact Details
   content: Join our course today or contact us for more information.
-  form_action: "#"
+  form_action: mailto:tomer@kic.co.il
   contact_details:
   - icon: ti-location-pin
     info: Kinneret Innovation Center, Jordan Valley, Israel
