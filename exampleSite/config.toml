@@ -16,36 +16,18 @@ home = "主页"
 languageCode = "zh-CN"
 languageName = "Zh"
 weight = 1
-[menu]
-static = []
-[[menu.main]]
-URL = "overview"
-name = "overview"
-weight = 1
-[[menu.main]]
-URL = "pedagogy"
-name = "pedagogy"
-weight = 2
-[[menu.main]]
-URL = "schedule"
-name = "schedule"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "testimonials"
-name = "testimonials"
-weight = 5
-[[menu.main]]
-URL = "prerequisites"
-name = "prerequisites"
-weight = "6"
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 7
+weight = 2
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 1
+[[menu.static]]
+URL = "https://themefisher.com/"
+name = "Themefisher"
+weight = 1
 [params]
 author = "Kinneret Innovation Center"
 description = "Responsive Multipurpose Parallax HTML5 Template"
