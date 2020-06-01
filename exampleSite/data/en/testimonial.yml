@@ -4,6 +4,12 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: He Changhao
+    image: images/img_testimonial1.jpg
+    image_webp: images/img_testimonial1.jpg
+    date: Chairman, Guangzhou Qimidian Trade Co., Ltd.
+    content: This course has helped me to understand Israeli wisdom and become a better
+      version of myself.
   - name: Viola Chen
     image: ''
     image_webp: ''
@@ -11,9 +17,3 @@ testimonial:
       company
     content: Tomer Swisa's course was logical, clear, concise, practical,  instructive,
       and the results are immediate!
-  - name: He Changhao
-    image: ''
-    image_webp: ''
-    date: Chairman, Guangzhou Qimidian Trade Co., Ltd.
-    content: This course has helped me to understand Israeli wisdom and become a better
-      version of myself.
