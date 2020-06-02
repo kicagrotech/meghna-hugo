@@ -1,18 +1,15 @@
 ---
 funfacts:
-  enable: false
+  enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Happy Clients
+  - title: Market Capitalisation on Nasdaq
     icon: ti-face-smile
-    count: "320"
-  - title: Projects completed
+    count: "2nd"
+  - title: Start-ups and counting
     icon: ti-archive
-    count: "350"
-  - title: Positive feedback
+    count: "6000"
+  - title: Israeli tech M&As and IPOs from 2010 to 2019
     icon: ti-thumb-up
-    count: "158"
-  - title: Cups of Coffee
-    icon: ti-gift
-    count: "250"
+    count: "1210"
