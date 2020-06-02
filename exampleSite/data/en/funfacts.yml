@@ -4,10 +4,10 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Market Capitalisation on Nasdaq
+  - title: over Israeli companies listed on Nasdaq, 2nd largest
     icon: ti-face-smile
-    count: "2nd"
-  - title: Start-ups and counting
+    count: "90"
+  - title: Start-ups and 600 new start-ups every year
     icon: ti-archive
     count: "6000"
   - title: Israeli tech M&As and IPOs from 2010 to 2019
